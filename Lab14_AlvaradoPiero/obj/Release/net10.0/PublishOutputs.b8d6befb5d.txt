@@ -1,0 +1,9 @@
+C:\Users\piero\RiderProjects\Lab14_AlvaradoPiero\Lab14_AlvaradoPiero\bin\Release\net10.0\published\Lab14_AlvaradoPiero.exe
+C:\Users\piero\RiderProjects\Lab14_AlvaradoPiero\Lab14_AlvaradoPiero\bin\Release\net10.0\published\appsettings.Development.json
+C:\Users\piero\RiderProjects\Lab14_AlvaradoPiero\Lab14_AlvaradoPiero\bin\Release\net10.0\published\appsettings.json
+C:\Users\piero\RiderProjects\Lab14_AlvaradoPiero\Lab14_AlvaradoPiero\bin\Release\net10.0\published\Lab14_AlvaradoPiero.dll
+C:\Users\piero\RiderProjects\Lab14_AlvaradoPiero\Lab14_AlvaradoPiero\bin\Release\net10.0\published\Lab14_AlvaradoPiero.deps.json
+C:\Users\piero\RiderProjects\Lab14_AlvaradoPiero\Lab14_AlvaradoPiero\bin\Release\net10.0\published\Lab14_AlvaradoPiero.runtimeconfig.json
+C:\Users\piero\RiderProjects\Lab14_AlvaradoPiero\Lab14_AlvaradoPiero\bin\Release\net10.0\published\Lab14_AlvaradoPiero.pdb
+C:\Users\piero\RiderProjects\Lab14_AlvaradoPiero\Lab14_AlvaradoPiero\bin\Release\net10.0\published\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\piero\RiderProjects\Lab14_AlvaradoPiero\Lab14_AlvaradoPiero\bin\Release\net10.0\published\Microsoft.OpenApi.dll
